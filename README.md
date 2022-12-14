@@ -3,7 +3,7 @@
 ## To Clone this repository:
 **Run the following Commands**
 ```bash
-git clone https://github.com/evershalik/os--practicals.git
+git clone https://github.com/evershalik/OS-Practicals.git
 cd os--practicals/
 ```
 
